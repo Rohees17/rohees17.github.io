@@ -67,21 +67,21 @@ html, body{
   }
   
   ul{
-    width: 700px;
+    width: 43.75rem;
     height: auto;
   }
   li{
     text-decoration: none;
     list-style-type: none;
     position: relative;
-    right: 20px;
+    right: 1.25rem;
     color: antiquewhite;
   }
   .line1{
-    font-size: 26px;
+    font-size: 1.625rem;
   }
   .line2{
-    font-size: 64px;
+    font-size: 4rem;
     font-family: 'Oswald', sans-serif; 
   }
  
@@ -90,7 +90,7 @@ html, body{
     position: relative;
     left: 3.938rem;
     border-radius: 20px;
-    box-shadow: 0 0 30px rgb(206, 201, 201);
+    box-shadow: 0 0 1.875rem rgb(206, 201, 201);
   }
 
   .thirdl{
@@ -100,17 +100,17 @@ html, body{
   }
   .ul2{
     position: relative;
-    right: 140px;
+    right: 8.75rem;
     color: antiquewhite;
   }
   .line21{
-    font-size: 26px;
+    font-size: 1.625rem;
   }
 
   .line22{
     margin-top: 20px;
     margin-bottom: 100px;
-    font-size: 64px;
+    font-size: 4rem;
     font-family: 'Oswald', sans-serif; 
   }
 
@@ -122,7 +122,7 @@ html, body{
     color: antiquewhite;
     text-align: center;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 1.25rem;
   }
   .mam:hover{
     color: black;
@@ -131,10 +131,10 @@ html, body{
 
   .thirdl img{
     margin-top: 50px;
-    width: 30px;
+    width: 1.875rem;
     background-color: beige;
     border-radius: 10px;
-    margin-left: 20px;
+    margin-left: 1.25rem;
   }
   .thirdl a{
     text-decoration: none;
@@ -146,11 +146,11 @@ html, body{
   }
  
   .thirdl, p{
-    width: 1000px;
-    height: 200px;
-    font-size: 26px;
+    width: 62.5rem;
+    height: 12.5rem;
+    font-size: 1.625rem;
     position: relative;
-    left: 160px;
+    left: 10rem;
     color: antiquewhite;
   }
   .secondsegment{
@@ -159,7 +159,7 @@ html, body{
     background-position: center;
     margin: 0;
     padding: 20px;
-    height: 1500px;
+    height: 93.75rem;
   }
   .firstl2{
     display: inline-flex;
