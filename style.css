@@ -88,7 +88,7 @@ html, body{
   .secondl img{
     margin-left: auto;
     position: relative;
-    left: 63px;
+    left: 3.938rem;
     border-radius: 20px;
     box-shadow: 0 0 30px rgb(206, 201, 201);
   }
